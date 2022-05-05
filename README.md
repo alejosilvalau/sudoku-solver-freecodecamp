@@ -2,4 +2,4 @@
 
 This is a sudoku solver web, where you introduce the unsolved puzzle and it returns it solved.
 
-Is focused on pracitse a base server and testing.
+Is focused on practice a base server and testing.
